@@ -1,0 +1,12 @@
+{
+  "name": "ourgarage-tinymce-languages",
+  "version": "1.0.0",
+  "description": "ourgarage tinymce languages",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:ourgarage/tinymce-languages.git",
+    "type": "git"
+  },
+  "author": "Anonim_Khb <alvo4444@gmail.com>",
+  "license": "MIT"
+}
